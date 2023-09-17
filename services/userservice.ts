@@ -290,3 +290,7 @@ export class UserService {
       catch (error) {
         return reject(error)
       }
+    });
+  }
+}
+
